@@ -22,7 +22,7 @@ variables:
 
 
 steps:
-- script: echo Hello, world to $(mySimpleVar)!
+- script: echo Hello, world to $(rale)!
   displayName: 'Run a one-line script'
 
 - script: |
