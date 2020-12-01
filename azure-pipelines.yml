@@ -16,7 +16,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  mySimpleVar: simple var value
+  mySimpleVar: Rastko Sapic
   "my.dotted.var": dotted var value
   "my var with spaces": var with spaces value
 
